@@ -1,3 +1,1 @@
 https://www.olx.ua/nedvizhimost/kvartiry-komnaty/prodazha-kvartir-komnat/kvartira/?search%5Bfilter_float_price%3Afrom%5D=1000000&search%5Bfilter_enum_commission%5D%5B0%5D=1&search%5Bfilter_enum_property_type_appartments_sale%5D%5B0%5D=3
-https://www.olx.ua/nedvizhimost/kvartiry-komnaty/prodazha-kvartir-komnat/kvartira/?search%5Bfilter_float_price%3Afrom%5D=1000000&search%5Bfilter_enum_commission%5D%5B0%5D=1&search%5Bfilter_enum_property_type_appartments_sale%5D%5B0%5D=3
-https://www.olx.ua/nedvizhimost/kvartiry-komnaty/prodazha-kvartir-komnat/kvartira/?search%5Bfilter_float_price%3Ato%5D=1000000&search%5Bfilter_enum_commission%5D%5B0%5D=1&search%5Bfilter_enum_property_type_appartments_sale%5D%5B0%5D=3
